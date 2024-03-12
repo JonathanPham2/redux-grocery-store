@@ -230,3 +230,4 @@ entry files.
 Commit your setup code!
 
 [http://localhost:5173]: http://localhost:5173
+# redux-grocery-store
